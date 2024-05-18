@@ -1,4 +1,4 @@
-package chapter17.consumer;
+package chapter17.consumer_and_biconsumer;
 
 import java.util.List;
 import java.util.function.Consumer;

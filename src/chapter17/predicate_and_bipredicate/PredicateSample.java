@@ -1,4 +1,4 @@
-package chapter17.predicate;
+package chapter17.predicate_and_bipredicate;
 
 import java.util.function.Predicate;
 
